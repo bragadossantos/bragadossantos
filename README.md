@@ -31,7 +31,7 @@ Sou desenvolvedor Full Stack, com foco em frontend e backend, dedicado à criaç
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://github.com/bragadossantos?tab=following"
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
