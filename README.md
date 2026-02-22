@@ -6,14 +6,14 @@
 Sou desenvolvedor Full Stack, com foco em frontend e backend, dedicado à criação de aplicações eficientes, escaláveis e com boa experiência do usuário. Tenho compromisso com boas práticas de desenvolvimento, organização de código e aprendizado contínuo.Busco constantemente evoluir tecnicamente, adquirir novas habilidades e aplicar meus conhecimentos em projetos reais, colaborando em equipe e contribuindo para soluções bem estruturadas.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@iambraga01?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@iambraga01">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -27,7 +27,7 @@ Sou desenvolvedor Full Stack, com foco em frontend e backend, dedicado à criaç
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/bragadossantos?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
