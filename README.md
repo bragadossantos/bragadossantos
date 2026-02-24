@@ -2,6 +2,7 @@
 
 **`Desenvolvedor Python - Junior`**
 **`Desenvolvedor Web`**
+**`Analista de Dados`**
 
 Sou desenvolvedor Full Stack, com foco em frontend e backend, dedicado à criação de aplicações eficientes, escaláveis e com boa experiência do usuário. Tenho compromisso com boas práticas de desenvolvimento, organização de código e aprendizado contínuo.Busco constantemente evoluir tecnicamente, adquirir novas habilidades e aplicar meus conhecimentos em projetos reais, colaborando em equipe e contribuindo para soluções bem estruturadas.
 
