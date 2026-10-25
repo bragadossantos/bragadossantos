@@ -17,6 +17,9 @@ Tenho interesse em arquitectura de software, desenvolvimento de produtos digitai
   <a href="https://linkedin.com/in/braga-dos-santos-5905a1341">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://x.com/bragadossantos9">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
   <a href="https://meublog-xi.vercel.app">
     <img src="https://img.shields.io/badge/My_Blog-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog"/>
   </a>
@@ -65,9 +68,9 @@ Tenho interesse em arquitectura de software, desenvolvimento de produtos digitai
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-
 ---
 
 ## Development Focus
